@@ -1,10 +1,15 @@
-# Node Template
+# Blessed Dash
 
-> A Repository Template for `NodeJS` Projects
+> A high-level terminal interface library for `NodeJS`
 
 ---
 
 ## Links & Resources
+
+* [`blessed`](https://github.com/chjj/blessed)
+* [`blessed-contrib`](https://github.com/yaronn/blessed-contrib)
+
+[](.)
 
 * [`commitizen/cz-cli`](https://github.com/commitizen/cz-cli)
   * [`cz-emoji`](https://github.com/ngryman/cz-emoji)
