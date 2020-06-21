@@ -2,6 +2,9 @@
  *	* Blessed dashboard example
  */
 
+var blessed = require("blessed")
+var contrib = require("blessed-contrib")
+
 function loadDashboard() {
   // ..
   // Dashboard screen
@@ -9,7 +12,8 @@ function loadDashboard() {
   // Set screen title
   screen.title = "BLESSED DASHBOARD";
   // Use grid layout
-  let grid = new contrib.Grid({ rows: 12, cols: 12, screen: screen });
+  // let grid = new contrib.Grid({ rows: 12, cols: 12, screen: screen });
+  let grid = new contrib.grid({ rows: 12, cols: 12, screen: screen });
 
   // Grid.set(row, col, rowSpan, colSpan, obj, opts)
 
@@ -84,6 +88,8 @@ function loadDashboard() {
   screen.render();
   // ..
 }
+
+loadDashboard()
 
 // EOF //
 
