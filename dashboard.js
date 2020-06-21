@@ -7,7 +7,7 @@ function loadDashboard() {
   // Dashboard screen
   let screen = blessed.screen();
   // Set screen title
-  screen.title = "SUPOMATION DASHBOARD";
+  screen.title = "BLESSED DASHBOARD";
   // Use grid layout
   let grid = new contrib.Grid({ rows: 12, cols: 12, screen: screen });
 
