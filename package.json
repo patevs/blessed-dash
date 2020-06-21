@@ -53,5 +53,8 @@
     "publish": false,
     "preview": false,
     "releaseDraft": true
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
   }
 }
