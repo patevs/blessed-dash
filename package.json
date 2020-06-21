@@ -1,12 +1,12 @@
 {
-  "name": "node-template",
-  "version": "1.0.1",
-  "description": "Repository Template for NodeJS Projects",
+  "name": "blessed-dash",
+  "version": "0.0.0",
+  "description": "A high-level terminal interface library for `NodeJS`",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/node-template.git"
+    "url": "git+https://github.com/patevs/blessed-dash.git"
   },
   "scripts": {
     "commit": "git-cz",
