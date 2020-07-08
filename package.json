@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/patevs/blessed-dash.git"
   },
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "commit": "git-cz",
