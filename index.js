@@ -19,7 +19,7 @@ function loadDashboard() {
 
   // Dashboard title
   grid.set(0, 4, 1, 4, blessed.box, {
-    content: "SUPOMATION DASHBOARD",
+    content: "BLESSED DASHBOARD",
     align: "center",
     border: {
       type: "line"
