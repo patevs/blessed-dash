@@ -11,8 +11,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "release": "np",
-    "updates": "script-progress node ./bin/checkUpdates"
+    "updates": "script-progress node ./bin/checkUpdates",
+    "release": "np"
   },
   "dependencies": {
     "blessed": "^0.1.81",
