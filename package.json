@@ -1,6 +1,6 @@
 {
   "name": "blessed-dash",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "A high-level terminal interface library for `NodeJS`",
   "author": "PatEvs",
   "license": "MIT",
@@ -32,6 +32,8 @@
     }
   },
   "commitlint": {
-    "extends": ["./node_modules/commitlint-config-gitmoji"]
+    "extends": [
+      "./node_modules/commitlint-config-gitmoji"
+    ]
   }
 }
