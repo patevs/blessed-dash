@@ -400,10 +400,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
 
-blessed-contrib@^4.8.20:
-  version "4.8.20"
-  resolved "https://registry.yarnpkg.com/blessed-contrib/-/blessed-contrib-4.8.20.tgz#687f151ef85307fa43eaec53297fa54ef2a9e241"
-  integrity sha512-jLLXR9pjjm/T2jY0Q8OCCpuDquWiMULkPyT8YNaiLUR0j1MchTQK/Q7SiuD63jn9ekn9BrohwP1Kom/FylmeHQ==
+blessed-contrib@^4.8.21:
+  version "4.8.21"
+  resolved "https://registry.yarnpkg.com/blessed-contrib/-/blessed-contrib-4.8.21.tgz#47c3df41dd5bd35e09dada830d41c38ff3d1cc97"
+  integrity sha512-zdQMO3UyfhdG0S+Zqn7YexI6BHlnO26qxBKc9jzgyZdIoq7nELiGM/V89CvrTPblZGQr3eMUqCy7pxlKm3vCYA==
   dependencies:
     ansi-term ">=0.0.2"
     chalk "^1.1.0"
