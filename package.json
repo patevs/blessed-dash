@@ -19,7 +19,7 @@
     "blessed-contrib": "^4.8.20"
   },
   "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
+    "@commitlint/cli": "^12.1.4",
     "chalk": "^4.1.1",
     "commitlint-config-gitmoji": "^1.0.1",
     "husky": "^4.3.6",
