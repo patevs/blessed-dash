@@ -1,6 +1,6 @@
 {
   "name": "blessed-dash",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "A high-level terminal interface library for `NodeJS`",
   "author": "PatEvs",
   "license": "MIT",
@@ -31,8 +31,14 @@
       "gitmoji"
     ],
     "rules": {
-      "subject-empty": [0, "never"],
-      "type-empty": [0, "never"]
+      "subject-empty": [
+        0,
+        "never"
+      ],
+      "type-empty": [
+        0,
+        "never"
+      ]
     }
   },
   "husky": {
