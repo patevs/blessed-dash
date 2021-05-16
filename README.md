@@ -15,14 +15,14 @@
 
 ```md
 .
-├── bin
-├── .commitlintrc.json
-├── .editorconfig
-├── .gitignore
-├── .huskyrc
-├── LICENSE
-├── package.json
-└── README.md
+├── bin                  # Utility scripts
+├── .editorconfig        # Editor configuration
+├── .gitignore           # Git ignore rules
+├── .np-config.json      # NPM publish (np) configuration
+├── index.js             # Project source
+├── LICENSE              # Project LICENSE
+├── package.json         # NPM package configuration
+└── README.md            # Project README
 ```
 
 ---
