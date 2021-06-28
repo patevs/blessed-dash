@@ -4,18 +4,14 @@
  *  bin/checkUpdates.js
  */
 
-/*************
- * * IMPORTS *
- *************/
+// IMPORTS //
 
 const childProcess = require("child_process")
 const os = require("os")
 
 const chalk = require('chalk');
 
-/***************
- * * CONSTANTS *
- ***************/
+// CONSTANTS //
 
 const log = console.log;
 
@@ -23,9 +19,7 @@ const log = console.log;
 const info = chalk.bgGreen.black;
 const err = chalk.bgRed.black;
 
-/***************
- * * FUNCTIONS *
- ***************/
+// FUNCTIONS //
 
 /**
  * Check for outdated node modules
