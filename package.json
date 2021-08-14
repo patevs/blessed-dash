@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.9.0"
+    "blessed-contrib": "^4.10.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
