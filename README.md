@@ -4,6 +4,26 @@
 
 ---
 
+## Installation
+
+```bash
+# Clone the repository
+$ git clone https://github.com/patevs/blessed-dash
+$ cd blessed-dash
+# Install dependencies
+$ npm install
+```
+
+## Usage
+
+```bash
+$ npm start
+# Or
+$ node index.js
+```
+
+---
+
 ## Links & Resources
 
 * [`blessed`](https://github.com/chjj/blessed)
