@@ -9,6 +9,10 @@
 * [`blessed`](https://github.com/chjj/blessed)
 * [`blessed-contrib`](https://github.com/yaronn/blessed-contrib)
 
+[](.)
+
+* [`react-blessed`](https://github.com/Yomguithereal/react-blessed) A react renderer for blessed.
+
 ---
 
 ## Project Structure
