@@ -2,8 +2,8 @@
  *	* Blessed dashboard example
  */
 
-var blessed = require("blessed")
-var contrib = require("blessed-contrib")
+import blessed from 'blessed'
+import contrib from 'blessed-contrib'
 
 function loadDashboard() {
   // ..
