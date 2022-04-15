@@ -39,6 +39,7 @@ $ node index.js
 
 ```md
 .
+├── .husky               # Husky configuration
 ├── bin                  # Utility scripts
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
