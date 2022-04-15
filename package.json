@@ -1,6 +1,6 @@
 {
   "name": "blessed-dash",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A high-level terminal interface library for `NodeJS`",
   "author": "PatEvs",
   "license": "MIT",
