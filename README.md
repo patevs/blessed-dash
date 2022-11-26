@@ -41,6 +41,7 @@ $ node index.js
 .
 ├── .husky               # Husky configuration
 ├── bin                  # Utility scripts
+├── .commitlintrc        # Commitlint configuration
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
 ├── .np-config.json      # NPM publish (np) configuration
