@@ -14,7 +14,7 @@
     "prepare": "husky install",
     "start": "node index.js",
     "updates": "script-progress node ./bin/checkUpdates",
-    "release": "npx np"
+    "release": "npx np --no-publish --no-tests"
   },
   "dependencies": {
     "blessed": "^0.1.81",
