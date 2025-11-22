@@ -11,7 +11,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "start": "node index.js",
     "updates": "script-progress node ./bin/checkUpdates",
     "release": "npx np --no-publish --no-tests"
